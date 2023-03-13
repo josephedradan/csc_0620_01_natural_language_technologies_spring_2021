@@ -19,6 +19,16 @@ Explanation:
 Reference:
     Google API
         https://developers.google.com/webmaster-tools/search-console-api-original/v3/quickstart/quickstart-python
+
+
+        KG API KEY
+        AIzaSyDBG110eS9kiHuj1DCEUxHlpgn_w_ol9Ro  # DEAD
+
+        ID
+        972097831436-1g557tlmhe2clst251mqn1ing8mokefj.apps.googleusercontent.com  # DEAD
+
+        SECRET
+        Dtk9wWLNRyyZzktDb30BhQvX  # DEAD
 """
 
 # !/usr/bin/python
@@ -29,8 +39,8 @@ from apiclient.discovery import build
 from oauth2client.client import OAuth2WebServerFlow
 
 # Copy your credentials from the console
-CLIENT_ID = '972097831436-1g557tlmhe2clst251mqn1ing8mokefj.apps.googleusercontent.com'
-CLIENT_SECRET = 'Dtk9wWLNRyyZzktDb30BhQvX'
+CLIENT_ID = '972097831436-1g557tlmhe2clst251mqn1ing8mokefj.apps.googleusercontent.com'  # DEAD
+CLIENT_SECRET = 'Dtk9wWLNRyyZzktDb30BhQvX'  # DEAD
 
 # Check https://developers.google.com/webmaster-tools/search-console-api-original/v3/ for all available scopes
 OAUTH_SCOPE = 'https://www.googleapis.com/auth/webmasters.readonly'
