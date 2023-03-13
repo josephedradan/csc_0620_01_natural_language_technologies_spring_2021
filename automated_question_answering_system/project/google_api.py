@@ -19,17 +19,6 @@ Explanation:
 Reference:
     Google API
         https://developers.google.com/webmaster-tools/search-console-api-original/v3/quickstart/quickstart-python
-
-
-        KG API KEY
-        AIzaSyDBG110eS9kiHuj1DCEUxHlpgn_w_ol9Ro
-
-
-        ID
-        972097831436-1g557tlmhe2clst251mqn1ing8mokefj.apps.googleusercontent.com
-
-        SECRET
-        Dtk9wWLNRyyZzktDb30BhQvX
 """
 
 # !/usr/bin/python
